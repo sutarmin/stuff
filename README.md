@@ -1,4 +1,5 @@
-# stuff
+# stuff [![Build Status](https://travis-ci.org/sutarmin/stuff.svg?branch=master)](https://travis-ci.org/sutarmin/stuff)
+
 Collection of self-written stuff
 
 1. **promisify.js** - exports my own implementation of `require("util").promisify` function from Node.js.
