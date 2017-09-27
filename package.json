@@ -1,0 +1,26 @@
+{
+  "name": "sutarmin-stuff",
+  "version": "1.0.0",
+  "description": "Collection of self-written stuff",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sutarmin/stuff.git"
+  },
+  "author": "Anton Sutarmin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sutarmin/stuff/issues"
+  },
+  "homepage": "https://github.com/sutarmin/stuff#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
